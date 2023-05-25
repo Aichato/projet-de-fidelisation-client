@@ -12,3 +12,5 @@ source de donnée : https://www.kaggle.com/code/omarzakariasalah/bank-customer-c
 |:-----------|:----------|
 |RowNumber | Le nombre de colonne unique|
 |CustomerId | Identifiant unique du client|
+|Surname | Nom du client|
+|CreditScore | Le score de credit|
