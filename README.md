@@ -24,3 +24,11 @@ source de donnée : https://www.kaggle.com/code/omarzakariasalah/bank-customer-c
 |IsActiveMember | Si un client est actif ou non|
 |EstimatedSalary | Estimation du salaire de chaque client|
 |Exited | **Le client a quitté la banque ou non (Variable cible)**|
+
+
+## Flux de travail
+Afin de créer un modèle, voici la procédure à suivre: 
+- Ingénierie des caractéristiques(
+- Diviser l'ensemble de données en 70 % de l'ensemble de formation et 30 % de l'ensemble de test.
+- Vérifier le score de précision pour l'ensemble de formation et l'ensemble de test.
+- Comparer les précisions pour l'ensemble de formation et l'ensemble de test, afin de vérifier les problèmes de surajustement.
