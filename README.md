@@ -34,7 +34,8 @@ Afin de créer un modèle, voici la procédure à suivre:
 - Comparer les précisions pour l'ensemble de formation et l'ensemble de test, afin de vérifier les problèmes de surajustement.
 
 ## importer les bibliotheques necessaires
-- import pandas as pd (est une librairie python qui permet de manipuler facilement des données à analyser)
+- import pandas as pd : 
+  **Pandas est une librairie python qui permet de manipuler facilement des données à analyser
 - import pickle (pickle est un module de python qui permet de sauvegarder une ou plusieurs variables dans un fichier et de récupérer leurs valeurs ultérieurement.)
 - import seaborn as sns (Seaborn est une bibliothèque qui offre la possibilité de résumer et de visualiser des données. Elle permet de créer de jolis graphiques statistiques en Python. )
 - from imblearn.over_sampling import SMOTE
