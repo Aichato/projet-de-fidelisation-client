@@ -45,11 +45,19 @@ Afin de créer un modèle, voici la procédure à suivre:
     **Seaborn** est une bibliothèque qui offre la possibilité de résumer et de visualiser des données. Elle permet de créer de jolis graphiques statistiques en Python.
 - from imblearn.over_sampling import SMOTE
 
-    **SMOTE** 
+    **SMOTE** est une méthode de suréchantillonnage des observations minoritaires, en cas de deséquilibre entre deux classe.
 - from sklearn.model_selection import train_test_split
+
+    **train_test_split** est une fonction qui permet de décomposer le jeu de données en 2 groupes: les données pour l'apprentissage et les données pour les tests.
 - from sklearn.preprocessing import StandardScaler
+
+    **StandardScaler** permet de faire la mise a l'echelle, c'est á dire normaliser les données
 - from sklearn.linear_model import LogisticRegression
+
+    **LogisticRegression** est utilisée pour la classification et l'analyse prédictive. La régression logistique estime la probabilité qu'un événement se produise.
 - from sklearn.metrics import accuracy_score
+
+  **accuracy_score** L'accuracy est souvent utilisée comme mesure de qualité pour la classification supervisée. c'est une métrique pour évaluer la performance des modèles de classification 
 - from sklearn.metrics import precision_score, recall_score,f1_score
 - from sklearn.svm import SVC
 - from sklearn.neighbors import KNeighborsClassifier
