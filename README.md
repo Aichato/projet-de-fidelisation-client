@@ -14,3 +14,13 @@ source de donnée : https://www.kaggle.com/code/omarzakariasalah/bank-customer-c
 |CustomerId | Identifiant unique du client|
 |Surname | Nom du client|
 |CreditScore | Le score de credit|
+|Geography | Emplacement géographique des clients|
+|Gender | Le sexe du client|
+|Age | L'age du client|
+|Tenure | Le nombre d'année|
+|Balance | Solde actuel des clients|
+|NumOfProducts | Le nombre de service|
+|HasCrCard | Si un client possède ou non une carte de crédit|
+|IsActiveMember | Si un client est actif ou non|
+|EstimatedSalary | Estimation du salaire de chaque client|
+|Exited | **Le client a quitté la banque ou non (Variable cible)**|
