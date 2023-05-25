@@ -4,4 +4,4 @@ Il s'agit d'un jeu de données public. Le format du jeu de données est indiqué
 
 L'ensemble de données contient 10000 lignes et 14 colonnes différentes.
 
-La colonne cible ici est : # *'Exited'*.
+La colonne cible ici est : *'Exited'*.
