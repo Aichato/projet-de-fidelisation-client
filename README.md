@@ -28,7 +28,23 @@ source de donnée : https://www.kaggle.com/code/omarzakariasalah/bank-customer-c
 
 ## Flux de travail
 Afin de créer un modèle, voici la procédure à suivre: 
-- Ingénierie des caractéristiques(
+- Ingénierie des caractéristiques(chargement et traitement des données)
 - Diviser l'ensemble de données en 70 % de l'ensemble de formation et 30 % de l'ensemble de test.
 - Vérifier le score de précision pour l'ensemble de formation et l'ensemble de test.
 - Comparer les précisions pour l'ensemble de formation et l'ensemble de test, afin de vérifier les problèmes de surajustement.
+
+## importer les bibliotheques necessaires
+- import pandas as pd (est une librairie python qui permet de manipuler facilement des données à analyser)
+- import pickle (pickle est un module de python qui permet de sauvegarder une ou plusieurs variables dans un fichier et de récupérer leurs valeurs ultérieurement.)
+- import seaborn as sns (Seaborn est une bibliothèque qui offre la possibilité de résumer et de visualiser des données. Elle permet de créer de jolis graphiques statistiques en Python. )
+- from imblearn.over_sampling import SMOTE
+- from sklearn.model_selection import train_test_split
+- from sklearn.preprocessing import StandardScaler
+- from sklearn.linear_model import LogisticRegression
+- from sklearn.metrics import accuracy_score
+- from sklearn.metrics import precision_score, recall_score,f1_score
+- from sklearn.svm import SVC
+- from sklearn.neighbors import KNeighborsClassifier
+- from sklearn.tree import DecisionTreeClassifier
+- from sklearn.ensemble import RandomForestClassifier
+- from sklearn.ensemble import GradientBoostingClassifier
