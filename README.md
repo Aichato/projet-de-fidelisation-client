@@ -8,7 +8,7 @@ La colonne cible ici est : **'Exited'**.
 
 source de donnée : https://www.kaggle.com/code/omarzakariasalah/bank-customer-churn-modeling/input#:~:text=Input%20Data-,Churn_Modelling,-.csv
 
-|Les variable| Définition|
+|Les variables| Définition|
 |:-----------|:----------|
 |RowNumber | Le nombre de colonne unique|
 |CustomerId | Identifiant unique du client|
