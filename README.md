@@ -75,4 +75,4 @@ Afin de créer un modèle, voici la procédure à suivre:
    **RandomForestClassifier** est un algorithme de Machine Learning très populaire auprès des Data Scientists en raison de sa précision, de sa simplicité et de sa         flexibilité. Cet algorithme peut être utilisé pour résoudre les problèmes de régression et de classification.
 - from sklearn.ensemble import GradientBoostingClassifier
 
-**GradientBoostingClassifier** détermine les défauts en utilisant des points de données pondérés.
+   **GradientBoostingClassifier** détermine les défauts en utilisant des points de données pondérés.
