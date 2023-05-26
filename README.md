@@ -1,4 +1,4 @@
-# Projet-de-fidelisation-client
+# Projet-de-Prediction-de-fidelisation-client
 ## Description de l'ensemble de données :
 Il s'agit d'un jeu de données public. Le format du jeu de données est indiqué ci-dessous.
 
