@@ -59,8 +59,20 @@ Afin de créer un modèle, voici la procédure à suivre:
 
   **accuracy_score** L'accuracy est souvent utilisée comme mesure de qualité pour la classification supervisée. c'est une métrique pour évaluer la performance des modèles de classification 
 - from sklearn.metrics import precision_score, recall_score,f1_score
+
+   **precision_score, recall_score,f1_score** permet de connaître le nombre de prédictions positifs bien effectuées.
 - from sklearn.svm import SVC
+
+   **SVC** est un modéle utilisé pour résoudre un problème de classification. 
 - from sklearn.neighbors import KNeighborsClassifier
+
+   **KNeighborsClassifier** peut être utilisé pour résoudre les problèmes de classification et de régression.
 - from sklearn.tree import DecisionTreeClassifier
+
+   **DecisionTreeClassifier** permet de réaliser une classification multi-classe à l'aide d'un arbre de décision.
 - from sklearn.ensemble import RandomForestClassifier
+
+   **RandomForestClassifier** est un algorithme de Machine Learning très populaire auprès des Data Scientists en raison de sa précision, de sa simplicité et de sa         flexibilité. Cet algorithme peut être utilisé pour résoudre les problèmes de régression et de classification.
 - from sklearn.ensemble import GradientBoostingClassifier
+
+**GradientBoostingClassifier** détermine les défauts en utilisant des points de données pondérés.
