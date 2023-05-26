@@ -76,3 +76,5 @@ Afin de créer un modèle, voici la procédure à suivre:
 - from sklearn.ensemble import GradientBoostingClassifier
 
    **GradientBoostingClassifier** détermine les défauts en utilisant des points de données pondérés.
+   
+  A la fin faire **streamlit run Prediction.py** dans le terminal de pycharm ou visual studio code pour lire le fichier **Prediction.py**
