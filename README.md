@@ -6,7 +6,6 @@ L'ensemble de données contient 10000 lignes et 14 colonnes différentes.
 
 La colonne cible ici est : **'Exited'**.
 
-source de donnée : https://www.kaggle.com/code/omarzakariasalah/bank-customer-churn-modeling/input#:~:text=Input%20Data-,Churn_Modelling,-.csv
 
 |Les variables| Définition|
 |:-----------|:----------|
